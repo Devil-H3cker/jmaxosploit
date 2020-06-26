@@ -21,12 +21,12 @@ The best hacking tool to hack Android devices in Lan and Wan.
 - locate the device using GPS.
 - list all the device's information
 - record the device in secret by the time you set
-       **_d. list all the contacts in the device._**
-       **_e. list all the call logs in the device._**
-       **_f. list all the SMS and MMS and send SMS from the device to any number you want._**
-       **_g. list all notification logs and the clipboard._**
-       **_h. list all the installed apps and network information._**
-       **_i. list all folders and files in the sdcard and download any file you want._**
+- list all the contacts in the device.
+- list all the call logs in the device.
+- list all the SMS and MMS and send SMS from the device to any number you want.
+- list all notification logs and the clipboard.
+- list all the installed apps and network information.
+- list all folders and files in the sdcard and download any file you want.
        
 **4. Create undetectable APK payload by Google play protect and many antivirus scanners.**
 
@@ -36,7 +36,7 @@ The best hacking tool to hack Android devices in Lan and Wan.
 
 -------------------------
 
-### ** ❔ Installation**
+### ** ❕ Installation**
 
 ```bash
 $ git clone https://github.com/jmaxojan/jmaxosploit
