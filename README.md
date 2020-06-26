@@ -36,7 +36,7 @@ The best hacking tool to hack Android devices in Lan and Wan.
 
 -------------------------
 
-### ** ❕ Installation**
+### ** ❗ Installation**
 
 ```bash
 $ git clone https://github.com/jmaxojan/jmaxosploit
