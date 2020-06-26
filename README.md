@@ -9,14 +9,18 @@ The best hacking tool to hack Android devices in Lan and Wan.
 
 ### **♾ Features**
 
+
 **1. Easy to install and use beacuse it runs a graphical interface in the browser.**
+
 
 **2. You can access the hacked device when ever it is online without losing the session.**
 
+
 **3. You can do many thing in the hacked device like:**
-**_a. locate the device using GPS._**
-**_b. list all the device's information._**
-       **_c. record the device in secret by the time you set._**
+
+**_1. locate the device using GPS._**
+**_2. list all the device's information._**
+**_3. record the device in secret by the time you set._**
        **_d. list all the contacts in the device._**
        **_e. list all the call logs in the device._**
        **_f. list all the SMS and MMS and send SMS from the device to any number you want._**
