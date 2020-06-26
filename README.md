@@ -18,9 +18,9 @@ The best hacking tool to hack Android devices in Lan and Wan.
 
 **3. You can do many thing in the hacked device like:**
 
-**_1. locate the device using GPS._**
-**_2. list all the device's information._**
-**_3. record the device in secret by the time you set._**
+- locate the device using GPS.
+- list all the device's information
+- record the device in secret by the time you set
        **_d. list all the contacts in the device._**
        **_e. list all the call logs in the device._**
        **_f. list all the SMS and MMS and send SMS from the device to any number you want._**
