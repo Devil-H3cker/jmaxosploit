@@ -49,7 +49,7 @@ $ bash jmax.sh
 
 ### **☣ More informations**
 
-**The framework's password will be changed in the offen so if you want to get it contact me at:
+**The framework's password will be changed in the offen so if you want to get it contact me at:**
 - ```WhatsApp : +967774077451```
 - ```Telegram : @jmaxojan```
 
