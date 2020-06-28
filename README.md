@@ -16,7 +16,7 @@ The best hacking tool to hack Android devices in Lan and Wan.
 **2. You can access the hacked device when ever it is online without losing the session.**
 
 
-**3. You can do many thing in the hacked device like:**
+**3. You can do many things in the hacked device like:**
 
 - locate the device using GPS.
 - list all the device's information
